@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">:))</string>
+    <string name="hello_geekbrains">Hello GeekBrains!</string>
+    <string name="tems">Сhange subjectt</string>
+    <string name="moscow">Moscow</string>
+    <string name="temp">25 °C</string>
+    <string name="data">03.10.2020</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="windS">14 m/c</string>
+    <string name="humidityS">59 %</string>
+    <string name="pressureS">772 mm rt. st.</string>
+    <string name="time">14 : 30</string>
+    <string name="setting">SETTINGS</string>
+    <string name="city_name">Moscow</string>
+    <string name="city_name2">Krasnodar</string>
+    <string name="dop">Additional information</string>
+    <string name="choice">Select city</string>
+    <string name="btn">TO APPLY</string>
+    <string name="city">Moscow \n Aprelevka \n Balashikha \n Bronnitsy \  Vereya \n Vidnoe \n Volokolamsk \n Voskresensk \n Vysokovsk \n Golitsyno \n Dzerzhinsky</string>
+    <string name="tema_act1">light theme</string>
+    <string name="tema_act2">dark theme</string>
+    <string name="back">BACK</string>
+    <string name="c_t">Enter the name of the city</string>
+    <string name="button_city">Attractions</string>
+</resources>

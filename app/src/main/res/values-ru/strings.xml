@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">:))</string>
+    <string name="hello_geekbrains">Привет, Geekbrains!</string>
+    <string name="tems">Сменить тему</string>
+    <string name="moscow">Москва</string>
+    <string name="temp">25 °C</string>
+    <string name="data">03.10.2020</string>
+    <string name="wind">ВЕТЕР</string>
+    <string name="humidity">ВЛАЖНОСТЬ</string>
+    <string name="pressure">ДАВЛЕНИЕ</string>
+    <string name="windS">14 м/с</string>
+    <string name="humidityS">59 %</string>
+    <string name="pressureS">772 мм рт. ст.</string>
+    <string name="time">14 : 30</string>
+    <string name="setting">Настройки</string>
+    <string name="city_name">Москва</string>
+    <string name="city_name2">Краснодар</string>
+    <string name="dop">Дополнительная информация</string>
+    <string name="choice">Выберите город</string>
+    <string name="btn">ПРИМЕНИТЬ</string>
+    <string name="city">Москва \n Апрелевка \n Балашиха \n Бронницы \n Верея \n Видное \n Волоколамск \n Воскресенск \n Высоковск \n Голицыно \n Дзержинский</string>
+    <string name="tema_act1">светлая тема</string>
+    <string name="tema_act2">темная тема</string>
+    <string name="back">НАЗАД</string>
+    <string name="c_t">Введите название города</string>
+    <string name="button_city">Достопримечательности</string>
+</resources>
