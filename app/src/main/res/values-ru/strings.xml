@@ -16,13 +16,15 @@
     <string name="setting">Настройки</string>
     <string name="city_name">Москва</string>
     <string name="city_name2">Краснодар</string>
+    <string name="snt_Petersburg">Санкт Петербург</string>
     <string name="dop">Дополнительная информация</string>
     <string name="choice">Выберите город</string>
-    <string name="btn">ПРИМЕНИТЬ</string>
+    <string name="btn">ВЫБРАТЬ ГОРОД</string>
     <string name="city">Москва \n Апрелевка \n Балашиха \n Бронницы \n Верея \n Видное \n Волоколамск \n Воскресенск \n Высоковск \n Голицыно \n Дзержинский</string>
     <string name="tema_act1">светлая тема</string>
     <string name="tema_act2">темная тема</string>
     <string name="back">НАЗАД</string>
     <string name="c_t">Введите название города</string>
     <string name="button_city">Достопримечательности</string>
+    <string name="weather">ПОГОДА</string>
 </resources>

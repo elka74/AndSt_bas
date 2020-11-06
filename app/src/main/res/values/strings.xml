@@ -15,13 +15,16 @@
     <string name="setting">SETTINGS</string>
     <string name="city_name">Moscow</string>
     <string name="city_name2">Krasnodar</string>
+    <string name="snt_Petersburg">Snt Petersburg</string>
     <string name="dop">Additional information</string>
     <string name="choice">Select city</string>
-    <string name="btn">TO APPLY</string>
+    <string name="btn">SELECT CITY</string>
     <string name="city">Moscow \n Aprelevka \n Balashikha \n Bronnitsy \  Vereya \n Vidnoe \n Volokolamsk \n Voskresensk \n Vysokovsk \n Golitsyno \n Dzerzhinsky</string>
     <string name="tema_act1">light theme</string>
     <string name="tema_act2">dark theme</string>
     <string name="back">BACK</string>
     <string name="c_t">Enter the name of the city</string>
     <string name="button_city">Attractions</string>
+    <string name="weather">WEATHER</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>
