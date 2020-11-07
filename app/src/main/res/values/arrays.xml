@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Moscow</item>
+        <item>Snt Petersburg</item>
+        <item>Volgograd</item>
+        <item>Ivanovo</item>
+        <item>Tver</item>
+        <item>Voronezh</item>
+        <item>Krasnodar</item>
+        <item>Samara</item>
+        <item>Yaroslavl</item>
+        <item>Ryazan</item>
+        <item>Rostov</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>16 °C</item>
+        <item>10 °C</item>
+        <item>18 °C</item>
+        <item>17 °C</item>
+        <item>14 °C</item>
+        <item>17 °C</item>
+        <item>24 °C</item>
+        <item>18 °C</item>
+        <item>17 °C</item>
+        <item>18 °C</item>
+        <item>21 °C</item>
+    </string-array>
+</resources>
